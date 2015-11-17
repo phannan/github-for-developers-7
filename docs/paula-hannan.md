@@ -1,2 +1,2 @@
-Paula's bio
-*file*
+Paula
+*really pretty*
